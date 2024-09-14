@@ -2,6 +2,22 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Compiled source files
+*.dll
+*.exe
+*.pdb
+*.app
+*.so
+*.dylib
+*.class
+*.jar
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
